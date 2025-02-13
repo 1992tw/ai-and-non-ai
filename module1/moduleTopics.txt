@@ -1,0 +1,7 @@
+## Module Topics
+
+- Introduction to AI and Traditional Computing
+- Capabilities and Limitations of AI
+- Non-AI Systems and Their Applications
+- Real-World Use Cases: AI vs. Non-AI
+- Ethical Considerations in AI and Non-AI Technologies
