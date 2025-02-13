@@ -1,0 +1,3 @@
+## Module Overview: AI and Non-AI
+
+In this module, learners will explore the intersection and distinctions between Artificial Intelligence (AI) and non-AI technologies. The module aims to build a foundational understanding of AI, its capabilities, and its current applications, alongside traditional computing methods and technologies that do not utilize AI. Through comparative analysis and practical exploration, learners will gain insights into when to apply AI methodologies versus non-AI approaches in solving real-world problems.
