@@ -1,6 +1,6 @@
 ## Module Objectives
 
-- Understand the basic concepts and definitions of AI and non-AI technologies.
+- NOT TO Understand the basic concepts and definitions of AI and non-AI technologies.
 - Compare and contrast capabilities and limitations of AI versus non-AI systems.
 - Identify real-world applications and use cases for AI and non-AI technologies.
 - Develop skills to choose appropriate technologies for specific tasks and challenges.
